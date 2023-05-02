@@ -1,0 +1,46 @@
+.SrchBar {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    
+    transition: width 0.3s;
+
+    margin: auto;
+    padding: 250px 0 0 0;
+
+    
+    
+    
+}
+
+
+.SrchBar img {
+    width: 32px;
+    height: 32px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+
+.SrchBar input {
+    width: 50px;
+    height: 32px;
+    border: none;
+    
+}
+
+.SrchBar:hover {
+    width: 200px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+

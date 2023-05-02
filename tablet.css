@@ -1,0 +1,40 @@
+.header {
+    width: 1402px;
+    height: 300px;
+    background-color: orange;
+
+}
+
+
+.sidebar {
+    width: 700px;
+    height: 450px;
+    background-color: mediumturquoise;
+}
+
+
+.sidebar1 {
+    width: 700px;
+    height: 450px;
+    background-color: springgreen;
+}
+
+.footer {
+    width: 467px;
+    height: 300px;
+    background-color: violet;
+}
+
+.footer1{
+    width: 467px;
+    height: 300px;
+    background-color: rgb(253, 198, 94);
+}
+
+.footer2 {
+    width: 467px;
+    height: 300px;
+    background-color: rgb(187, 167, 187);
+}
+
+

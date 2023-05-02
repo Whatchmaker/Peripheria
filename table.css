@@ -1,0 +1,40 @@
+/*  */
+.container {
+    width: 7529px;
+}
+
+.header {
+    width:100%;
+    height:100px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.contenter {
+    width: 100px;
+    height: 700px;
+    background-color: orchid;
+    text-align: center;
+}
+
+.sidebar{
+   width: 7330px;
+   height: 700px;
+   background-color: grey;
+   text-align: center;
+}
+
+
+.sidebar1 {
+    width: 89px;
+    height: 700px;
+    background-color: orange;
+    text-align: end;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: lightgreen;
+    text-align: center;
+}

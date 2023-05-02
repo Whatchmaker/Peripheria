@@ -1,0 +1,19 @@
+.grid-container {
+    /* width: 100%; */
+    
+
+    padding: 10px;
+    display: inline-grid;
+
+    background-color: cornflowerblue;
+}
+
+.grid-child {
+  background-color: crimson;
+  color: white;
+
+  padding: 20px;
+
+  border: 1px solid black;
+  text-align: center;
+}

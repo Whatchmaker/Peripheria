@@ -1,0 +1,38 @@
+/*  */
+
+
+.email {
+    width: 350px;
+    height: 32px;
+}
+
+.name {
+    height: 32px;
+}
+
+.lastname {
+    height: 32px;
+}
+
+.pass {
+    width: 350px;
+    height: 32px;
+}
+
+.checkbox {
+text-align: left;
+  width: 350px;
+  height: 32px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(129, 128, 128);
+  
+
+}
+
+.reg {
+    width: 350px;
+    height: 32px;
+    background-color: green;
+    color: white;
+}

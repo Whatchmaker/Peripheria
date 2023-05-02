@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer-social {
+    width: 100%;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+}
+
+.social-network {
+    width: 10%;
+    height: 70px;
+    background-color: crimson;
+    margin: 0 3%;
+}
+
+.footer-images {
+    width: 100%;
+    display: flex;
+}
+
+.footer-image {
+    width: 20%;
+    height: 380px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: darkmagenta;
+}
+
+
+.footer-info {
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+
+.footer-info-container {
+    width: 50%;
+    height: 514px;
+    
+    background-color: greenyellow;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.footer-top {
+    width: 100%;
+    height: 60%;
+
+    background-color: indigo;
+
+    display: flex;
+}
+
+.footer-bottom {
+    width: 100%;
+    height: 10%;
+
+    background-color: lightcoral;
+}
+
+
+.footer-aboutme {
+    width: 50%;
+    height: 100%;
+
+    background-color: lightgreen;
+}
+
+
+.footer-contactus {
+    width: 50%;
+    height: 100%;
+
+    background-color: lightseagreen;
+}
+
